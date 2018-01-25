@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# misc 
+*.sw[a-p]
+e1
+e2
+e3
+e4
