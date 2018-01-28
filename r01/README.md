@@ -221,5 +221,5 @@ After making the modifications, you can check in the changes in your (local) git
 ## What to submit for today's recitation
 1. Makefile (with -g and pattern match rules)
 2. foo.c (with the bug fixed)
-3. hello.c (which prints "Hello World")
+3. hello.c (which prints "Hello World") 
 **Due date: Feb 5, 2018**
