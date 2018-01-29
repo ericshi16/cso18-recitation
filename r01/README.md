@@ -72,6 +72,7 @@ You can also search online for other tutorials.
   - to enter command line mode, hit `:` when being in the normal mode.
 
 Readings:
+* [Vim interactive tutorial](http://www.openvim.com/)
 * [Learning the vi Editor/Vim/Modes](http://vim.rtorr.com/)
 
 Key commands:
